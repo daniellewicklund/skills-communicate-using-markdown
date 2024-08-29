@@ -9,3 +9,7 @@ Also, I added an image!
 ``` Python
 print("This is my coding example");
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
